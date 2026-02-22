@@ -1,0 +1,40 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>My Top 3 Eve Music Videos</h1>
+        <p>Popular Japanese singer-songwriter and producer Eve has recently gotten more recognition due to making intros of popular media like Jujustsu Kaisen. I've been a fan of his work for over 2 years, and these are my favorite songs made by him!</p>
+        <section>
+            <h2>Tokyo Ghetto - Eve Music Video</h2>
+            <p>Tokyo Ghetto, publised on July of 2018 has over 60 million views and is between one of Eve's most popular music to date, with it's catchy instrumental and vocals becoming mine and many people's favorite piece from Eve!</p>
+            <iframe width="500" height="350" src="https://www.youtube.com/embed/PvzBWFGEz8M?si=dC2sfKhia40yxYWl" title="Tokyo Ghetto Music Video Youtube"></iframe>
+        </section>
+        <section>
+            <h2>Avant - Eve Music Video</h2>
+            <p>Following the success of Kaikai Kitan, the opening music to the previously mentioned Jujutsu Kaisen anime, Avant has the same elements and visuals that are found in Kaikai Kitan, and was even used for an official Jujutsu Kaisen game, making for a really good listen, especially if you're already a fan of the series!</p>
+            <iframe width="500" height="350" src="https://www.youtube.com/embed/m6CFrfKw60w?si=23UH-R7fzXsMdM0b" title="Avant Music Video Youtube"></iframe>
+        </section>
+
+        <section>
+            <h2>We're Still Underground - Eve Music Video</h2>
+            <p>This music video is not only a song, but a whole story in 5 minutes! With it's breathtaking animation and beatiful song and vocals, it makes for a wonderful and emotional listen. Note that even if you don't understand Japanese, this song (and many other popular music videos) has personalized English captions that add onto the experience for many!</p>
+            <iframe width="500" height="350" src="https://www.youtube.com/embed/nBteO-bU78Y?si=oAeramye9lnrs1vd" title="We're Still Underground - Eve Music Video">
+            </iframe>
+        <h2>Honorable Mentions</h2>
+        <p>Some of my favorite songs that didn't make it here are Dramaturgy, INSOMNIA (I couldn't get the embed due to it's age restriction), Last Dance, How To Eat Life, and the list goes on. Thank you for reading!</p>
+        </section>   
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
